@@ -40,8 +40,6 @@ The project includes:
 
 ## 🏗 Architecture
 
-## 🏗 Architecture
-
 ```mermaid
 flowchart TD
     %% ========= Nodes ========= %%
